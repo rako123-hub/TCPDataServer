@@ -13,7 +13,7 @@
 
 
 
-std::string version("3.0.2");
+std::string version("3.0.3");
 
 std::string return_current_time_and_date()
 {
